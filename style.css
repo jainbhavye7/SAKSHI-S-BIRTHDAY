@@ -930,7 +930,7 @@ body {
     font-size: 25px;
     text-shadow: 0 0 8px #FF7882;
 }
-.boxMail .boxMail-container .card2 h3{
+.boxMail .boxMail-container .card2:hover h3{
     animation: texth3 3s forwards;
     animation-delay: 2s;
     transition: 1s;
@@ -1038,3 +1038,4 @@ body {
     z-index: 999999999;
 
 }
+
